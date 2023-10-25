@@ -1,0 +1,14 @@
+site:
+  title: "KabosiWebsite"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/dist/js/developmentExecutable/kabosi.js"
+      api: "build/libs/kabosi.jar"
+    prod:
+      script: "build/dist/js/productionExecutable/kabosi.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
