@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "kabosi"
+rootProject.name = "Karat"
 
 include(":site")

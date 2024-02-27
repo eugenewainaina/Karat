@@ -1,14 +1,14 @@
 site:
-  title: "KabosiWebsite"
+  title: "KaratWebsite"
 
 server:
   files:
     dev:
       contentRoot: "build/processedResources/js/main/public"
-      script: "build/dist/js/developmentExecutable/kabosi.js"
-      api: "build/libs/kabosi.jar"
+      script: "build/dist/js/developmentExecutable/Karat.js"
+      api: "build/libs/Karat.jar"
     prod:
-      script: "build/dist/js/productionExecutable/kabosi.js"
+      script: "build/dist/js/productionExecutable/Karat.js"
       siteRoot: ".kobweb/site"
 
   port: 8080
