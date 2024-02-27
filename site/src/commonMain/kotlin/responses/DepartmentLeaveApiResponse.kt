@@ -1,0 +1,4 @@
+package responses
+
+class DepartmentLeaveApiResponse {
+}
