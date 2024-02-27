@@ -1,3 +1,5 @@
+# Karat
+
 `Karat` is a Leave Application and Management [Kobweb](https://github.com/varabyte/kobweb) project using [KotlinBootstrap](https://github.com/stevdza-san/KotlinBootstrap) framework for a simple user-friendly UI and [Exposed](https://github.com/JetBrains/Exposed) ORM framework for a MySQL Database. It streamlines the process of requesting, approving, and managing leave applications within an organization.
 
 ## Features
